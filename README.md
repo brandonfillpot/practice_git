@@ -1,1 +1,1 @@
-This is a repo for learning git
+aint that about a snitch
